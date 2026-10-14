@@ -3,3 +3,8 @@ __pycache__/
 keys.env
 
 
+
+# never commit secrets
+keys.env
+*.env
+!*.env.example
